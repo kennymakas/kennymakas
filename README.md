@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ian Makabuli Kenneth</h1>
 <h3 align="center">A passionate frontend developer from Uganda</h3>
-<img align="right" alt="coding" width="" scr="[https://in.pinterest.com/pin/pinterest--59813501292017265/](https://hacktiv8.com/)">
+<img align="right" alt="coding" width="" scr="https://en.m.wikipedia.org/wiki/File:Computer-screen-code-glitch-animation-gif-background-free.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kennymakas&label=Profile%20views&color=0e75b6&style=flat" alt="kennymakas" /> </p>
 
